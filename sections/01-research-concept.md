@@ -1,3 +1,3 @@
 # Research Concept & Direction
 
-*Add your research concept and direction here...*
+This is a test for adding the research concepts
