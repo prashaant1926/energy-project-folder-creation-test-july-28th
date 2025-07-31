@@ -2,11 +2,9 @@
 
 Relevant Areas Reviewed:
 
-Energy Forecasting & Time-Series Modeling
-
-ML in Climate Science (e.g. DeepMind’s GraphCast)
-
-Remote Sensing for Solar/Wind Power Prediction
+- Energy Forecasting & Time-Series Modeling
+- ML in Climate Science (e.g. DeepMind’s GraphCast)
+- Remote Sensing for Solar/Wind Power Prediction
 
 Bayesian Neural Networks for Uncertainty Estimation
 
